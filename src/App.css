@@ -1,0 +1,57 @@
+.App {
+  display: flex;
+  flex-direction: row;
+}
+
+.surah-list {
+  background-color: white;
+  color: black;
+  height: fit-content;
+  width: 100px;
+  margin-top: 8rem;
+}
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: black;
+  color: teal;
+  accent-color: red;
+}
+
+.quran {
+  color: white;
+  width: auto;
+  text-align: center;
+}
+
+.surah-heading {
+  display: flex;
+  gap: 1rem;
+}
+
+.sh {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  background-color: aliceblue;
+  width: 100%;
+}
+
+.quran-text:nth-child(odd) {
+  color: aqua;
+}
+
+.quran-text:nth-child(even) {
+  color: blue;
+}
+
+nav {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
