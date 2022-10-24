@@ -9,4 +9,4 @@ A react app built around an API available Rapidapi.
 
 3. Run ```npm start```
 
-4. Goto hhtp://localhost:3000 on your machine to view the application.
+4. Goto ```hhtp://localhost:3000``` on your machine to view the application.
