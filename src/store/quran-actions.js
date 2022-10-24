@@ -3,7 +3,7 @@ import { quranActions } from "./quran-slice";
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": "fb5e83c21bmshb37ee4876633017p12755djsnfdd672e79f3e",
+    "X-RapidAPI-Key": <Rapid API key>,
     "X-RapidAPI-Host": "al-quran1.p.rapidapi.com",
   },
 };
