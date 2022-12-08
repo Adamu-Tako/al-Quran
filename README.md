@@ -1,5 +1,5 @@
 # al-Quran
-A react app built around an API available Rapidapi.
+A react app built around an API available on Rapidapi.
 
 ## How to download and run the app
 
